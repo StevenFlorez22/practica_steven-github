@@ -1,1 +1,3 @@
 Habìa una vez un estudiante (steven) de geoinformaciòn en web que querìa aprender GitHub
+
+Pero primero tuvo que instalar Git en su computadora.
